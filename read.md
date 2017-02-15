@@ -6,10 +6,12 @@ Tens of thousands of videos were posted on the channel while it was active, some
 
 ## Motivation
 
-This git exists to document our code as we attempt to solve the puzzles hidden by Unfavorable Semicircle
+This git exists to document our code as we attempt to solve Unfavorable Semicircle
 
 ## Contributors
 
 Join us on Discord: https://discordapp.com/channels/193619269794267137/193619269794267137
+
 wiki: http://www.unfavorablesemicircle.com/wiki/UnfavorableSemicircle_Wiki
+
 Reddit: http://www.reddit.com/r/unfavorablesemicircle
